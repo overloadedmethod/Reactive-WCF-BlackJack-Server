@@ -1,0 +1,9 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\bin\Debug\BlackJackClient.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\bin\Debug\BlackJackClient.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\bin\Debug\BlackJackClient.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.pdb
+C:\Users\Vladimir\documents\visual studio 2015\Projects\BlackJackClient\BlackJackClient\obj\Debug\BlackJackClient.TestWindow.resources
